@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Identifying attributes and skills:_
+1. **Interpersonal skills**: empathy, active listening, and emotional intelligence
+2. **Programming skills**: Javascript, HTML/CSS
+3. **Communication skills**: Adapting your communication style, Giving and receiving feedback
